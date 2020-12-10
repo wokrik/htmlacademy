@@ -1,0 +1,1 @@
+Для отображения виджета на странице вашего сайта необходимо добавить на эту страницу следующую ссылку: <script src="http://wokrik.beget.tech/media/super_puper_widget.js"></script> перед закрывающим тегом body
