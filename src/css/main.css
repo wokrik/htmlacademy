@@ -25,7 +25,7 @@ img {
   padding: 10px 0 5px 0;
   font-family: 'Montserrat', sans-serif;
   border: 2px solid #c40b05;
-  border-bottom: none;
+  border-right: none;
   border-radius: 20px 0 0 0;
   transition: all 1s;
   background: #ffffff;
@@ -38,7 +38,7 @@ img {
 
 .widget__tab {
   position: absolute;
-  top: -1px;
+  top: 0;
   right: -2px;
   display: flex;
   justify-content: space-between;
